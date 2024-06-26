@@ -12,7 +12,7 @@ I'm a detail-oriented frontend developer experienced in transforming design conc
 
 <h2 align="center">SKILLS</h2>
 
-<p align="left">
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
 </a>
@@ -44,7 +44,7 @@ I'm a detail-oriented frontend developer experienced in transforming design conc
 
 <h2 align="center">SOCIALS</h2>
 
-<p align="left"> <a href="https://www.github.com/Amusah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/henry-amusah-485744168/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/x.com/henry_amusah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center"> <a href="https://www.github.com/Amusah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/henry-amusah-485744168/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/x.com/henry_amusah" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 
 <h2 align="center">GITHUB STATS 📊</h2>
@@ -93,8 +93,8 @@ I'm a detail-oriented frontend developer experienced in transforming design conc
 
 <!--Favourite Quote--> 
 <h2 align="center">FAVOURITE QUOTE 💡</h2>
-<p align="center">
-  <a href="https://www.goodreads.com/quotes/17303-ancora-imparo-yet-i-am-learning">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Michelangelo&quote=Ancora%20Imparo.%20&bg_color=22272e&author_color=ffffff&accent_color=64748b&hide_border=true" alt="Quote">
+<p align="center" style="border: none;">
+  <a style="border: none;" href="https://www.goodreads.com/quotes/17303-ancora-imparo-yet-i-am-learning">
+    <img style="border: none;" src="https://readme-daily-quotes.vercel.app/api?author=Michelangelo&quote=Ancora%20Imparo.%20&bg_color=22272e&author_color=ffffff&accent_color=64748b&hide_border=true" alt="Quote">
   </a>
 </p>
