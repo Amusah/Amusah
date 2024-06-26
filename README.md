@@ -22,12 +22,12 @@ I'm a detail-oriented frontend developer experienced in transforming design conc
 
 ### Badges
 
-<h2 align="center">Github Stats 📊</h2>
+<h2 align="center">GITHUB STATS 📊</h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <a href="https://www.github.com/Amusah">
           <img src="https://github-readme-stats.vercel.app/api?username=Amusah&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=22272e&hide_border=true&show_icons=true" alt="Amusah's GitHub stats" />
@@ -61,7 +61,7 @@ I'm a detail-oriented frontend developer experienced in transforming design conc
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">Contribution Stats 📈</h2>
+<h2 align="center">CONTRIBUTION STATS 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amusah&bg_color=22272e&color=3382ed&line=c56a90&point=ffeb95&area=false&hide_border=true">
 </div>
