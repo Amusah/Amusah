@@ -69,5 +69,5 @@ I'm a detail-oriented frontend developer experienced in transforming design conc
 <!--Favourite Quote--> 
 <h2 align="center">FAVOURITE QUOTE 💡</h2>
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=$Michelangelo&quote=$Ancora Imparo&bg_color=22272e&author_color=3382ed&accent_color=64748b">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=W.%20Clement%20Stone&quote=Success%20is%20achieved%20and%20maintained%20by%20those%20who%20try%20and%20keep%20trying.%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
