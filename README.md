@@ -65,3 +65,9 @@ I'm a detail-oriented frontend developer experienced in transforming design conc
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amusah&bg_color=22272e&color=3382ed&line=c56a90&point=ffeb95&area=false&hide_border=true">
 </div>
+
+<!--Favourite Quote--> 
+<h2 align="center">FAVOURITE QUOTE 💡</h2>
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=$Michelangelo&quote=$Ancora Imparo&bg_color=22272e&author_color=3382ed&accent_color=64748b">
+</p>
