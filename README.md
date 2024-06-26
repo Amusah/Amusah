@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Henry Amusah
 ====================================================================================================================================
 
-Passionate Frontend Developer
+A Passionate Frontend Developer
 -----------------------------
 
 I'm a detail-oriented frontend developer experienced in transforming design concepts into functional, user-friendly web components and interfaces. I craft responsive frontends using HTML, CSS Sass, Tailwind CSS, JavaScript, and React, focusing on clarity, usability, and performance. Let's connect and collaborate on exciting projects!
