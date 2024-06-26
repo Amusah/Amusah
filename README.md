@@ -51,7 +51,7 @@ I'm a detail-oriented frontend developer experienced in transforming design conc
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/Amusah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amusah&langs_count=10&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
       </p>
