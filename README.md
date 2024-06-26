@@ -32,6 +32,12 @@ I'm a detail-oriented frontend developer experienced in transforming design conc
 
 <a href="http://www.github.com/Amusah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amusah&stroke=64748b&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amusah&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
 <a href="http://www.github.com/Amusah"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Amusah&bg_color=22272e&color=64748b&line=3382ed&point=64748b&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Amusah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amusah&langs_count=10&title_color=3382ed&text_color=64748b&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
