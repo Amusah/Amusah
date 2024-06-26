@@ -22,7 +22,7 @@ I'm a detail-oriented frontend developer experienced in transforming design conc
 
 ### Badges
 
-<h2 align="center">GitHub Stats 📊</h2>
+<h2 align="center">Github Stats 📊</h2>
 
 <table width="100%">
   <tr>
@@ -35,7 +35,7 @@ I'm a detail-oriented frontend developer experienced in transforming design conc
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://www.github.com/Amusah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amusah&stroke=64748b&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=64748b&currStreakLabel=3382ed&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
       </p>
@@ -43,7 +43,7 @@ I'm a detail-oriented frontend developer experienced in transforming design conc
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Latest Project</strong></h3>
       <p align="center">
         <a href="https://github.com/Amusah/Weather-forecast">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Amusah&repo=Weather-forecast&bg_color=22272e&title_color=3382ed&text_color=64748b&hide_border=true&show_icons=true" alt="Weather Forcaster" />
@@ -61,7 +61,7 @@ I'm a detail-oriented frontend developer experienced in transforming design conc
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">Contribution Stats 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amusah&bg_color=22272e&color=3382ed&line=c56a90&point=ffeb95&area=false&hide_border=true">
 </div>
