@@ -69,5 +69,7 @@ I'm a detail-oriented frontend developer experienced in transforming design conc
 <!--Favourite Quote--> 
 <h2 align="center">FAVOURITE QUOTE 💡</h2>
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Michelangelo&quote=Ancora%20Imparo.%20&bg_color=22272e&author_color=ffffff&accent_color=64748b&border=none">
+  <a href="https://www.goodreads.com/quotes/17303-ancora-imparo-yet-i-am-learning">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Michelangelo&quote=Ancora%20Imparo.%20&bg_color=22272e&author_color=220a28&accent_color=64748b&hide_border=true">
+  </a>
 </p>
