@@ -71,7 +71,7 @@ I'm a detail-oriented frontend developer experienced in transforming design conc
       <h3 align="center"><strong>Latest Project</strong></h3>
       <p align="center">
         <a href="https://designo-gamma-inky.vercel.app/">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Amusah&repo=Weather-forecast&bg_color=22272e&title_color=3382ed&text_color=64748b&hide_border=true&show_icons=true" alt="Designo" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Amusah&repo=Designo&bg_color=22272e&title_color=3382ed&text_color=64748b&hide_border=true&show_icons=true" alt="Designo" />
         </a>
       </p>
     </td>
