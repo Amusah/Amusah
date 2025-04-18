@@ -2,7 +2,7 @@
 
 ## A Passionate Frontend Developer
 
-I'm a detail-oriented frontend developer experienced in transforming design concepts into functional, user-friendly web components and interfaces. I craft responsive frontends using HTML, CSS Sass, Tailwind CSS, JavaScript, and React, focusing on clarity, usability, and performance. Let's connect and collaborate on exciting projects!
+I'm a detail-oriented frontend developer experienced in transforming design concepts into functional, user-friendly web components and interfaces. I craft responsive UIs using HTML, CSS Sass, Tailwind CSS, JavaScript, and React, focusing on clarity, usability, and performance. Let's connect and collaborate on exciting projects!
 
 - 🌍  I'm based in Ghana
 - ✉️  You can contact me at [henryamusah@gmail.com](mailto:henryamusah@gmail.com)
