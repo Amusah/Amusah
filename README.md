@@ -7,7 +7,7 @@ I'm a detail-oriented frontend developer experienced in transforming design conc
 - 🌍  I'm based in Ghana
 - ✉️  You can contact me at [henryamusah@gmail.com](mailto:henryamusah@gmail.com)
 - 🚀  I'm currently working on [Designo | a multipage website challenge on Frontend Mentor](https://designo-gamma-inky.vercel.app/)
-- 🧠  I'm learning TypeScript and Next.js
+- 🧠  I'm learning TypeScript & PostgreSQL
 - ⚡  I Build Rc Airplanes
 
 <h2 align="center">SKILLS</h2>
